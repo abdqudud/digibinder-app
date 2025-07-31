@@ -1,0 +1,37 @@
+[
+  {
+    "code": "BT1-001",
+    "name": "Koromon",
+    "image": "https://images.digimoncard.io/images/cards/BT1-001.jpg",
+    "rarity": "Uncommon",
+    "set": "BT-01"
+  },
+  {
+    "code": "BT1-002",
+    "name": "Tsunomon",
+    "image": "https://images.digimoncard.io/images/cards/BT1-002.jpg",
+    "rarity": "Common",
+    "set": "BT-01"
+  },
+  {
+    "code": "BT1-003",
+    "name": "Agumon",
+    "image": "https://images.digimoncard.io/images/cards/BT1-003.jpg",
+    "rarity": "Common",
+    "set": "BT-01"
+  },
+  {
+    "code": "BT1-004",
+    "name": "Gabumon",
+    "image": "https://images.digimoncard.io/images/cards/BT1-004.jpg",
+    "rarity": "Common",
+    "set": "BT-01"
+  },
+  {
+    "code": "BT1-005",
+    "name": "Biyomon",
+    "image": "https://images.digimoncard.io/images/cards/BT1-005.jpg",
+    "rarity": "Rare",
+    "set": "BT-01"
+  }
+]
